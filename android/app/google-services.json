@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "541388242989",
+    "firebase_url": "https://whatasapp-shourya-default-rtdb.firebaseio.com",
+    "project_id": "whatasapp-shourya",
+    "storage_bucket": "whatasapp-shourya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541388242989:android:05d5f121d519a91ac7b8a4",
+        "android_client_info": {
+          "package_name": "com.example.ass_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541388242989-lfi9gmmmi7200phddv65l4llrbchcaue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxgb-NcU3Vhz_rH76LX83JUq2BfmC25k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541388242989-lfi9gmmmi7200phddv65l4llrbchcaue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541388242989-nhavg7a89bsfbb4t916jvu23po8u3dk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.charterer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541388242989:android:78dd238cc78af011c7b8a4",
+        "android_client_info": {
+          "package_name": "com.example.charterer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541388242989-lfi9gmmmi7200phddv65l4llrbchcaue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxgb-NcU3Vhz_rH76LX83JUq2BfmC25k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541388242989-lfi9gmmmi7200phddv65l4llrbchcaue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541388242989-nhavg7a89bsfbb4t916jvu23po8u3dk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.charterer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
