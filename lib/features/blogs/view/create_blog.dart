@@ -114,7 +114,7 @@ class CreateBlog extends StatelessWidget {
                             ? 'Please select a category'
                             : null,
                       )),
-                  SizedBox(height: isWeb ? 16 : 20.h),//sizedbox
+                  SizedBox(height: isWeb ? 16 : 20.h), //sizedbox
                   Obx(() => Wrap(
                         spacing: isWeb ? 6 : 8.w,
                         children: controller.tags
